@@ -10,7 +10,7 @@ https://robohash.org
 https://jsonplaceholder.typicode.com/users
 ## Follow these steps to use the app
 ```
-https://github.com/faranbutt/Robofriends.git
+git clone https://github.com/faranbutt/Robofriends.git
 cd Robofriends
 npm install
 npm start
